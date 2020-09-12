@@ -1,0 +1,12 @@
+"robomaster_2020"
+{
+	"material"	"overviews/robomaster_2020"
+	"pos_x"		"-1537"
+	"pos_y"		"1539"
+	"scale"		"3.00" 
+
+	"CTSpawn_x"	".905"
+	"CTSpawn_y"	".505"
+	"TSpawn_x"	".095"
+	"TSpawn_y"	".505"
+}
